@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
