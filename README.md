@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -39,9 +40,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
