@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
