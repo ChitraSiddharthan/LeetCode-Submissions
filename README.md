@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
