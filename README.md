@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0274-h-index) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
@@ -125,9 +127,11 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
