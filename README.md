@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0049-group-anagrams) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
