@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0228-summary-ranges) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
