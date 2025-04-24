@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 ## Bit Manipulation
