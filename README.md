@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0133-clone-graph) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
