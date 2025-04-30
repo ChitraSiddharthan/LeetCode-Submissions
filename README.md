@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0202-happy-number) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0224-basic-calculator) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -282,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
