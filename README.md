@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0202-happy-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0647-palindromic-substrings) |
@@ -300,5 +302,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
