@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0069-sqrtx) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0268-missing-number) |
 ## Union Find
