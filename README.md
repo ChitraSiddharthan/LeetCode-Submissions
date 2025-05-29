@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0268-missing-number) |
 ## Union Find
@@ -326,4 +329,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
