@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0077-combinations) |
 ## Simulation
 |  |
 | ------- |
