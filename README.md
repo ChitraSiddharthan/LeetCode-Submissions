@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0202-happy-number) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0029-divide-two-integers](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0268-missing-number) |
 ## Union Find
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
