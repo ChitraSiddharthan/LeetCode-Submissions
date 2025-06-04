@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0162-find-peak-element) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0268-missing-number) |
 ## Union Find
