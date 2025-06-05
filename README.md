@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0169-majority-element) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
