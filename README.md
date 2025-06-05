@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0224-basic-calculator) |
