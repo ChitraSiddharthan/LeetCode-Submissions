@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0274-h-index) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -376,4 +379,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0067-add-binary) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
