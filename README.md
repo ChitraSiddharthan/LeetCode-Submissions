@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0120-triangle) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Memoization
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0077-combinations](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Simulation
 |  |
 | ------- |
