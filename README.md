@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0155-min-stack) |
 ## Graph
 |  |
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
