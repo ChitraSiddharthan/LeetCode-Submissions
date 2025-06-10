@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0057-insert-interval) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0169-majority-element) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
