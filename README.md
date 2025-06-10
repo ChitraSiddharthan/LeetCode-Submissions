@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0974-reorder-data-in-log-files](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0974-reorder-data-in-log-files) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0974-reorder-data-in-log-files](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0974-reorder-data-in-log-files) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0647-palindromic-substrings](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0647-palindromic-substrings) |
+| [0974-reorder-data-in-log-files](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0974-reorder-data-in-log-files) |
 ## Trie
 |  |
 | ------- |
