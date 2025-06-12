@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0090-subsets-ii) |
