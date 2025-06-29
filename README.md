@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
