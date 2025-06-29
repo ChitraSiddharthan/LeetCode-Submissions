@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0518-coin-change-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0518-coin-change-ii) |
 | [0974-reorder-data-in-log-files](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0974-reorder-data-in-log-files) |
 ## Hash Table
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0139-word-break) |
+| [0518-coin-change-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
