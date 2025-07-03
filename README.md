@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0383-ransom-note) |
+| [0567-permutation-in-string](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0383-ransom-note) |
+| [0567-permutation-in-string](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0647-palindromic-substrings) |
 | [0974-reorder-data-in-log-files](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0974-reorder-data-in-log-files) |
 ## Trie
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
