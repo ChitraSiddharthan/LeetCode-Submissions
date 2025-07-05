@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0518-coin-change-ii) |
+| [0739-daily-temperatures](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0974-reorder-data-in-log-files](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0974-reorder-data-in-log-files) |
 ## Hash Table
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0224-basic-calculator) |
+| [0739-daily-temperatures](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0207-course-schedule) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ChitraSiddharthan/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
